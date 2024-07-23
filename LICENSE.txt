@@ -1,0 +1,4 @@
+Licença Proprietária
+Este software é proprietário e confidencial. Todos os direitos reservados.
+
+A redistribuição ou uso deste código, com ou sem modificações, não é permitida sem a autorização expressa por escrito do autor. A reprodução, cópia ou utilização deste código, em parte ou no todo, para fins comerciais ou não comerciais, é estritamente proibida sem a devida permissão.
